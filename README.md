@@ -17,12 +17,6 @@ Projeyi çalıştırmak için aşağıdaki bağımlılıkları yükleyin:
 pip install opencv-python imutils numpy
 ```
 
-Alternatif olarak, `requirements.txt` dosyasından yükleyebilirsiniz:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Kullanım
 
 Programı başlatmak için aşağıdaki komutu kullanabilirsiniz:
