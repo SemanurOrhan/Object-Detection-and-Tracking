@@ -1,4 +1,4 @@
-# Nesne Takip Sistemi
+# Nesne Tespit ve Takip Sistemi
 
 Bu proje, OpenCV ve Python kullanarak belirli renkteki nesneleri (yeşil, mavi ve sarı) kamera veya video üzerinden algılayıp takip eden bir sistemdir. Algılanan nesnelerin hareket geçmişi kaydedilir ve görselleştirilir.
 
